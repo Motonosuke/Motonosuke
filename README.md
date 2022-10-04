@@ -4,4 +4,4 @@
 
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact"/></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Motonosuke&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
