@@ -14,7 +14,8 @@
 <br />
 <hr />
 
-<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact" />
+<div display='flex'>
+  <img align='left' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact" />
+  <img align='right' width='48%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
+</div>
 
-
-<img align='right' width='48%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
