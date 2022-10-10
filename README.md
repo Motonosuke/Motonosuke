@@ -11,11 +11,10 @@
 <p>💻  I work as a front-end engineer.</p>
 <p>❤️ I like technologies such as React and Nextjs, and I am most familiar with them in my work.</p>
 
-<h2>📈 my most used languages</h2>
+<br />
+<hr />
 
-<img width='40%' src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact" />
-
-<h2>📈 my github stats</h2>
+<img align='left' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact" />
 
 
-<img width='45%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
+<img align='right' width='48%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
