@@ -1,4 +1,8 @@
-<img  src="./Portfolio-Banner-Profile-1920x600.png" />
+<p align="center" style="margin-top: 12px">
+  <img  src="./my_name_image.png" width="45%" height="80%" />
+</p>	
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">&nbspHello everyone</h1>
 
@@ -19,8 +23,4 @@
   <img align=top width='45%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
