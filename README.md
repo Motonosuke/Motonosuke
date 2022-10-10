@@ -14,8 +14,11 @@
 <br />
 <hr />
 
-<div display='flex'>
-  <img align='left' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact" />
-  <img align='right' width='48%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
+<div>
+  <img align=top width='45%' src="https://github-readme-stats.vercel.app/api/top-langs?username=Motonosuke&show_icons=true&locale=en&layout=compact" />
+  <img align=top width='45%' src="https://github-readme-stats.vercel.app/api?username=Motonosuke&count_private=true&show_icons=true" alt="github stats" />
 </div>
 
+
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
