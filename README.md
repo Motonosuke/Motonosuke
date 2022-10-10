@@ -11,7 +11,7 @@
 </p>
 
 
-<p>💁‍♂️  I am a software engineer from Tokyo.<br /></p>
+<p>💁‍♂️  I am a software engineer from Tokyo, Japan.<br /></p>
 <p>💻  I work as a front-end web developer.</p>
 <p>❤️ I like technologies such as React and Nextjs, and I am most familiar with them in my work.</p>
 
